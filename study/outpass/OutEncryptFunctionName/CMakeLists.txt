@@ -1,0 +1,1 @@
+add_library(LLVMOutEncryptFunctionName SHARED OutEncryptFunctionName.cpp)

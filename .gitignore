@@ -57,3 +57,5 @@ autoconf/autom4te.cache
 
 /build-debug
 /build-release
+/study/outpass/cmake-build-debug
+/study/outpass/.idea
